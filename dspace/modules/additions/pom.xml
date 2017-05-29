@@ -55,6 +55,8 @@
       <dependency>
          <groupId>org.dspace</groupId>
          <artifactId>dspace-api-lang</artifactId>
+         <scope>system</scope>
+         <systemPath>${root.basedir}/dspace-api/target/dspace-api-6.0.jar</systemPath>
       </dependency>
       <dependency>
          <groupId>javax.servlet</groupId>

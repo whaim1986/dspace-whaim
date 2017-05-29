@@ -133,12 +133,16 @@
             <groupId>org.dspace</groupId>
             <artifactId>dspace-rest</artifactId>
             <type>war</type>
+            <scope>system</scope>
+            <systemPath>${root.basedir}/dspace-rest/target/dspace-rest-6.0.war</systemPath>
         </dependency>
         <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-rest</artifactId>
             <type>jar</type>
             <classifier>classes</classifier>
+            <scope>system</scope>
+            <systemPath>${root.basedir}/dspace-rest/target/dspace-rest-6.0-classes.jar</systemPath>
         </dependency>
 
         <dependency>
