@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <document xmlns="http://di.tamu.edu/DRI/1.0/" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.1">
-<body>
-<div id="file.news.div.news" n="news" rend="primary">
-<head>DSpace Repository</head>
-<p>DSpace is a digital service that collects, preserves, and distributes digital material. Repositories are important tools for preserving an organization&apos;s legacy; they facilitate digital preservation and scholarly communication.</p>
-</div>
-</body>
-<options/>
-<meta>
-<userMeta/>
-<pageMeta/>
-<repositoryMeta/>
-</meta>
+    <body>
+        <div id="file.news.div.news" n="news" rend="primary">
+            <head>广州石刻文献数据库</head>
+            <p>本数据库为《广州大典》与广州历史文化专题研究重点项目“广州石刻文献数据库建设”的研究成果之一，负责人为中山大学资讯管理学院张靖副教授。本项目利用并借鉴金石目录学思想和方法所形成的石刻文献书目控制理论，以广州地区所藏的石刻文献为对象，建立起一个集信息检索、知识导航、资源索引和研究拓展等各项功能于一体的数据库。目前仍在开发阶段，所有数据均为实验性数据。</p>
+        </div>
+    </body>
+    <options/>
+    <meta>
+        <userMeta/>
+        <pageMeta/>
+        <repositoryMeta/>
+    </meta>
 </document>

@@ -7,7 +7,7 @@
     说明：英文粗译
 
 -->
-<catalogue xml:lang="zh" xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+<catalogue xml:lang="zh_CN" xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
 
     <!--
         The format used by all keys is as follows

@@ -112,8 +112,6 @@
             <groupId>org.dspace</groupId>
             <artifactId>dspace-jspui</artifactId>
             <type>war</type>
-            <scope>system</scope>
-            <systemPath>${root.basedir}/dspace-jspui/target/dspace-jspui-6.0.war</systemPath>
         </dependency>
 
         <dependency>
@@ -121,8 +119,6 @@
             <artifactId>dspace-jspui</artifactId>
             <type>jar</type>
             <classifier>classes</classifier>
-            <scope>system</scope>
-            <systemPath>${root.basedir}/dspace-jspui/target/dspace-jspui-6.0-classes.jar</systemPath>
         </dependency>
 
         <dependency>
