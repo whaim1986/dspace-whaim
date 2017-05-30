@@ -108,16 +108,12 @@
             <groupId>org.dspace</groupId>
             <artifactId>dspace-oai</artifactId>
             <type>war</type>
-            <scope>system</scope>
-            <systemPath>${root.basedir}/dspace-oai/target/dspace-oai-6.0.war</systemPath>
         </dependency>
         <dependency>
             <groupId>org.dspace</groupId>
             <artifactId>dspace-oai</artifactId>
             <type>jar</type>
             <classifier>classes</classifier>
-            <scope>system</scope>
-            <systemPath>${root.basedir}/dspace-oai/target/dspace-oai-6.0-classes.jar</systemPath>
             <exclusions>
                 <exclusion>
                     <groupId>com.lyncode</groupId>

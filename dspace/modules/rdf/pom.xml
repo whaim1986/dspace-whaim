@@ -101,8 +101,6 @@
             <groupId>org.dspace</groupId>
             <artifactId>dspace-rdf</artifactId>
             <type>war</type>
-            <scope>system</scope>
-            <systemPath>${root.basedir}/dspace-rdf/target/dspace-rdf-6.0.war</systemPath>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>
