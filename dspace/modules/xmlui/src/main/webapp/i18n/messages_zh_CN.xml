@@ -1956,7 +1956,7 @@
     <message key="xmlui.administrative.community.CreateCommunityForm.title">创建社群</message>
     <message key="xmlui.administrative.community.CreateCommunityForm.trail">创建社群</message>
     <message key="xmlui.administrative.community.CreateCommunityForm.main_head_sub">Enter Metadata for a New Sub-Community of {0}</message>
-    <message key="xmlui.administrative.community.CreateCommunityForm.main_head_top">Edit Metadata for a New Top-Level Community</message>
+    <message key="xmlui.administrative.community.CreateCommunityForm.main_head_top">编辑新的顶级社群元数据</message>
     <message key="xmlui.administrative.community.CreateCommunityForm.submit_save">Create</message>
 
 
